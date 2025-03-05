@@ -15,6 +15,6 @@ la liste des membres, l'URL du code source, etc.
 - [ ] La fiche est complète et publiée sur [l'annuaire des réalisations](https://beta.gouv.fr).
 - [ ] Les informations sont régulièrement vérifiées et mises à jour.
 
-## Références
+## Ressources
 
 - [Gérer sa fiche produit](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/espace-membre/gerer-sa-fiche-produit).
