@@ -1,4 +1,4 @@
-# Le service est frugal en fonctionnalités.
+# Le service est frugal en fonctionnalités
 
 ## Description
 

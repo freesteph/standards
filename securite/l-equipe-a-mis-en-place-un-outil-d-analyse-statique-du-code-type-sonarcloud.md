@@ -1,4 +1,4 @@
-# L'équipe a mis en place un outil d'analyse statique du code type SonarCloud.
+# L'équipe a mis en place un outil d'analyse statique du code type SonarCloud
 
 ## Description
 

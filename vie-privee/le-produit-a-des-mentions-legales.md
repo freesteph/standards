@@ -1,4 +1,4 @@
-# Le produit a des mentions légales.
+# Le produit a des mentions légales
 
 ## Description
 

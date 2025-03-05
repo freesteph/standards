@@ -1,4 +1,4 @@
-# Le service utilise le DSFR.
+# Le service utilise le DSFR
 
 ## Description
 

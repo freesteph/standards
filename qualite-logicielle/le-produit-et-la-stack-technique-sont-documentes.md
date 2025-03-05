@@ -1,4 +1,4 @@
-# Le produit et la stack technique sont documentés.
+# Le produit et la stack technique sont documentés
 
 ## Description
 

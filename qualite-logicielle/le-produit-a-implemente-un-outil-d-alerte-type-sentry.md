@@ -1,4 +1,4 @@
-# Le produit a implementé un outil d'alerte type Sentry.
+# Le produit a implementé un outil d'alerte type Sentry
 
 ## Description
 

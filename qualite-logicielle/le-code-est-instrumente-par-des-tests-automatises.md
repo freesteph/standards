@@ -1,4 +1,4 @@
-# Le code est instrumenté par des tests automatisés.
+# Le code est instrumenté par des tests automatisés
 
 ## Description
 

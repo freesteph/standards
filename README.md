@@ -35,6 +35,19 @@ contribution et la maintenance.
 https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/eco-conception#des-services-durables
 ```
 
+## Syntaxe
+
+Pour garantir l'homogénéité des règles, le linter
+[markdownlint](https://github.com/DavidAnson/markdownlint) est utilisé
+pour les fiches. Des intégrations pour les éditeurs de code sont
+disponibles.
+
+Pour lancer le linting :
+
+```sh
+npm run lint
+```
+
 ## Feuille de route
 
 - [ ] remplir les descriptions : pourquoi règle X ? peut-être même une checklist pour vérifier [façon WCAG](https://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/H90))

@@ -1,4 +1,4 @@
-# Les utilisateurs peuvent faire des retours facilement.
+# Les utilisateurs peuvent faire des retours facilement
 
 ## Description
 

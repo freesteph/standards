@@ -1,4 +1,4 @@
-# L'équipe a réalisé un atelier d'analyse de risques.
+# L'équipe a réalisé un atelier d'analyse de risques
 
 ## Description
 

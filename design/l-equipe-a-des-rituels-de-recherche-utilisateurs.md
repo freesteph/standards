@@ -1,4 +1,4 @@
-# L'équipe a des rituels de recherche utilisateurs.
+# L'équipe a des rituels de recherche utilisateurs
 
 ## Description
 

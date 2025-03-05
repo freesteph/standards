@@ -1,4 +1,4 @@
-# Le produit a une politique de confidentialité.
+# Le produit a une politique de confidentialité
 
 ## Description
 

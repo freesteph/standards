@@ -1,4 +1,4 @@
-# Le code source est ouvert, y compris à la contribution externe.
+# Le code source est ouvert, y compris à la contribution externe
 
 ## Description
 

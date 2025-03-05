@@ -1,4 +1,4 @@
-# Le produit a des CGU.
+# Le produit a des CGU
 
 ## Description
 

@@ -1,4 +1,4 @@
-# Le produit communique sur son budget.
+# Le produit communique sur son budget
 
 ## Description
 

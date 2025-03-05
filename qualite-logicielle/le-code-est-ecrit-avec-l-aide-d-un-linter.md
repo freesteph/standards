@@ -11,11 +11,11 @@ Des outils d'analyse/formattage de code, les linters, sont disponibles pour éva
 
 ## Ressources
 
-* Javascript :
-  * [ESLint](https://eslint.org/)
-  * [Biome](https://biomejs.dev/)
-* Python :
-  * [Black](https://pypi.org/project/black/)
-  * [Flake](https://flake8.pycqa.org/en/latest/)
-* Ruby :
-  * [Rubocop](https://github.com/rubocop/rubocop)
+- Javascript :
+  - [ESLint](https://eslint.org/)
+  - [Biome](https://biomejs.dev/)
+- Python :
+  - [Black](https://pypi.org/project/black/)
+  - [Flake](https://flake8.pycqa.org/en/latest/)
+- Ruby :
+  - [Rubocop](https://github.com/rubocop/rubocop)

@@ -1,1 +1,1 @@
-# Le service a publié ses obligations déclaratives (déclaration d'accessibilité, schéma pluriannuel, plan d'action).
+# Le service a publié ses obligations déclaratives (déclaration d'accessibilité, schéma pluriannuel, plan d'action)

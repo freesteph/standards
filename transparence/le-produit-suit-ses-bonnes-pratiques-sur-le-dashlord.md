@@ -1,4 +1,4 @@
-# Le produit suit ses bonnes pratiques sur le Dashlord.
+# Le produit suit ses bonnes pratiques sur le Dashlord
 
 ## Description
 

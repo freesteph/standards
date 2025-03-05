@@ -1,4 +1,4 @@
-# Le code est déployé fréquemment, idéalement en continu.
+# Le code est déployé fréquemment, idéalement en continu
 
 ## Description
 

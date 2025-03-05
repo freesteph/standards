@@ -1,4 +1,4 @@
-# La fiche du service est à jour.
+# La fiche du service est à jour
 
 ## Description
 

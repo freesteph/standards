@@ -1,4 +1,4 @@
-# Le produit a une fiche.
+# Le produit a une fiche
 
 ## Description
 

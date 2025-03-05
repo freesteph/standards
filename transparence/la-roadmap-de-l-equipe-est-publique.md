@@ -1,4 +1,4 @@
-# La roadmap de l'équipe est publique.
+# La roadmap de l'équipe est publique
 
 ## Description
 
